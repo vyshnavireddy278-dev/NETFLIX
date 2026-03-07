@@ -1,5 +1,5 @@
 package backend;
 
-public class file {
+public class file2 {
     
 }
